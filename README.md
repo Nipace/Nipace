@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipace&layout=compact" height="165" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Nipace&layout=compact" height="165" />
 </p>
 
 ---
