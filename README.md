@@ -70,12 +70,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nipace&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nipace" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipace&layout=compact" height="165" />
 </p>
 
 ---
