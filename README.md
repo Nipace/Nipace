@@ -70,7 +70,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nipace&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Nipace&show_icons=true&theme=default" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nipace" height="165" />
 </p>
 
